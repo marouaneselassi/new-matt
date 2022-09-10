@@ -1,0 +1,510 @@
+.body{
+    font-family: 'Cairo', sans-serif;
+
+}
+
+
+.I{
+   
+
+font-size: 100px;
+margin: 0px;
+text-align: center;
+
+
+}
+.T{
+    font-size: 110px;
+    margin: 0px;
+    text-align: center;
+    color: #7da67d;
+
+}
+
+.II{
+    font-size: 110px;
+    margin: 0px;
+    text-align: center;
+    color: #ff6117;
+}
+.AA{
+    font-size: 110px;
+    margin: 0px;
+    text-align: center;
+    color: #26a526;
+}
+ 
+.navbar2{
+    padding: 50px;
+}
+
+.EE{
+    font-size: 80px;
+    margin: 0px;
+    text-align: center;
+    color: #19186d;
+}
+.ig{
+
+padding-bottom: 100px;
+}
+.FF{
+    font-size: 60px;
+    margin: 0px;
+    text-align: center;
+}
+.im{
+    padding-top: 100px;
+}
+.DD{
+    font-size: 70px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 20px;
+}
+.real{
+    font-size: 80px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 30px;
+    color: #7da67d;
+}
+.barca{
+    font-size: 80px;
+    margin: 0px;
+    text-align: center;
+  
+}
+.bayern{
+    font-size: 70px;
+    margin: 0px;
+    text-align: center;
+
+    color: #7da67d;
+    
+}
+.city{
+    font-size: 80px;
+    margin: 0px;
+    text-align: center;
+    color: #7da67d;
+    
+}
+.paris{
+    font-size: 50px;
+    margin: 0px;
+    text-align: center;
+  
+}
+
+.liver{
+    font-size: 80px;
+    margin: 0px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.XX{
+    font-size: 50px;
+
+    text-align: center;
+    padding-bottom: 30px;
+    color: #7da67d;
+}
+.navbar6{
+
+   
+   text-align: center;
+   
+ 
+   
+}
+.btni{
+    width: 200px;
+    height: 50px;
+    border-radius:30px;
+    background-color:  #7da67d;
+     
+}
+.GG{
+    margin: 0px;
+    color: aliceblue;
+    
+}
+
+.feed{
+   padding-top: 30px;
+}
+
+.mark{
+    padding-top: 50px;
+}
+.href{
+      
+    margin: 0px;
+text-decoration: none;
+
+
+ }
+ 
+
+ .WW{
+       color: aliceblue;
+       margin: 0px;
+
+       size: 300px;
+ }
+
+@media (max-width: 767px) {
+    .I{
+        font-size: 25px;
+    }
+    .T{
+        font-size: 25px;
+    }
+    .II{
+        font-size: 30px;
+    }
+    .AA{
+        font-size: 20px;
+    }
+    .EE{
+        font-size: 15px;
+    }
+   
+    .FF{
+        font-size: 15px;
+     
+       
+    }
+    .ig{
+    
+        padding-top: 20px;
+        
+       padding: 0px;
+       margin: 0px;
+     
+ 
+    }
+    
+    .navbar2{
+       padding-top: 20px;
+       padding-bottom: 30px;
+    }
+    .im{
+     padding-top: 40px;
+     margin: 0px;
+    }
+    .DD{
+        font-size: 15px;
+        padding-top: 5px;
+    }
+    .real{
+    
+        font-size: 20px;
+
+    }
+    .barca{
+    
+        font-size: 20px;
+
+    }
+    .bayern{
+    
+        font-size: 15px;
+
+    }
+    .city{
+        font-size: 20px;
+    }
+    .paris{
+        font-size: 12px;
+       padding-bottom: 10px;
+    }
+    .liver{
+        font-size: 20px;
+      margin: 0px;
+      padding: 0px;
+  padding-top: 10px;
+    }
+    
+    .XX{
+          font-size: 20px;
+    }
+    .btni{
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+    }
+   
+    .href{
+      
+        margin: 0px;
+    text-decoration: none;
+    font-size: 10px;
+     }
+     
+    
+     .WW{
+           color: aliceblue;
+           margin: 0px;
+     }
+ }
+
+
+
+ @media (min-width: 1000px) {
+    .I{
+        font-size: 50px;
+    }
+    .T{
+        font-size: 40px;
+    }
+    .II{
+        font-size: 50px;
+    }
+    .AA{
+        font-size: 35px;
+    }
+    .EE{
+        font-size: 30px;
+    }
+   
+    .FF{
+        font-size: 25px;
+     
+       
+    }
+    .ig{
+    
+        padding-top: 30px;
+        
+       padding: 0px;
+       margin: 0px;
+     
+ 
+    }
+    
+    .navbar2{
+       padding-top: 30px;
+       padding-bottom: 40px;
+    }
+    .im{
+     padding-top: 50px;
+     margin: 0px;
+    }
+    .DD{
+        font-size: 25px;
+        padding-top: 10px;
+    }
+    .real{
+    
+        font-size: 30px;
+
+    }
+    .barca{
+    
+        font-size: 30px;
+
+    }
+    .bayern{
+    
+        font-size: 28px;
+
+    }
+    .city{
+        font-size: 30px;
+    }
+    .paris{
+        font-size: 25px;
+       padding-bottom: 20px;
+    }
+    .liver{
+        font-size: 30px;
+      margin: 0px;
+      padding: 0px;
+  padding-top:20px;
+    }
+    
+    .XX{
+          font-size: 30px;
+    }
+    .btni{
+        width: 150px;
+        height: 50px;
+        border-radius: 30px;
+    }
+   
+ } 
+
+ .href{
+      
+    margin: 0px;
+text-decoration: none;
+ }
+ 
+
+ .WW{
+       color: aliceblue;
+       margin: 0px;
+ }
+
+ .href{
+      
+    margin: 0px;
+text-decoration: none;
+
+ }
+ 
+
+ .WW{
+       color: aliceblue;
+       margin: 0px;
+ }
+
+@media (min-width: 1200px) {
+    
+    .I{
+   
+
+        font-size: 100px;
+        margin: 0px;
+        text-align: center;
+        
+        
+        }
+        .T{
+            font-size: 110px;
+            margin: 0px;
+            text-align: center;
+            color: #7da67d;
+        
+        }
+        
+        .II{
+            font-size: 110px;
+            margin: 0px;
+            text-align: center;
+            color: #be5625;
+        }
+        .AA{
+            font-size: 110px;
+            margin: 0px;
+            text-align: center;
+            color: #7da67d;
+        }
+         
+        .navbar2{
+            padding: 50px;
+        }
+        
+        .EE{
+            font-size: 80px;
+            margin: 0px;
+            text-align: center;
+            color: #19186d;
+        }
+        .ig{
+        
+        padding-bottom: 100px;
+        }
+        .FF{
+            font-size: 60px;
+            margin: 0px;
+            text-align: center;
+        }
+        .im{
+            padding-top: 100px;
+        }
+        .DD{
+            font-size: 70px;
+            margin: 0px;
+            text-align: center;
+            padding-top: 20px;
+        }
+        .real{
+            font-size: 70px;
+            margin: 0px;
+            text-align: center;
+            padding-top: 30px;
+            color: #7da67d;
+        }
+        .barca{
+            font-size: 70px;
+            margin: 0px;
+            text-align: center;
+          
+        }
+        .bayern{
+            font-size: 70px;
+            margin: 0px;
+            text-align: center;
+        
+            color: #7da67d;
+            
+        }
+        .city{
+            font-size: 80px;
+            margin: 0px;
+            text-align: center;
+            color: #7da67d;
+            
+        }
+        .paris{
+            font-size: 50px;
+            margin: 0px;
+            text-align: center;
+          
+        }
+        
+        .liver{
+            font-size: 80px;
+            margin: 0px;
+            text-align: center;
+            padding-top: 70px;
+        }
+        
+        .XX{
+            font-size: 80px;
+        
+            text-align: center;
+            padding-top: 70px;
+            color: #7da67d;
+        }
+        .navbar6{
+        
+           
+           text-align: center;
+           
+         
+           
+        }
+        .btni{
+            width: 200px;
+            height: 70px;
+            border-radius: 30px;
+            background-color:  #7da67d;
+        
+        }
+        .GG{
+            margin: 0px;
+            color: aliceblue;
+            
+        }
+        
+        .feed{
+           padding-top: 30px;
+        }
+        .href{
+      
+            margin: 0px;
+        text-decoration: none;
+         }
+         
+        
+         .WW{
+               color: aliceblue;
+               margin: 0px;
+         }
+        
+ }
